@@ -1,0 +1,13 @@
+batch_size = 4
+d_model = 64*4
+num_layers = 3
+num_heads = 3
+class_num = 2
+d_inner = 256
+dropout = 0.1
+PAD = 1
+KS = 7
+Fea_PLUS = 2
+SIG_LEN = 5000 
+stride = 5
+n_lead = 12
